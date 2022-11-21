@@ -12,11 +12,14 @@
 body { 
     font-size: 16px;
     background-color: black;
+    background-image: url(../img/Multitask.jpg);
 
     font-family: Arial, Helvetica, sans-serif;
 
     color: white;
 }
+
+
 
 header > h1 { text-align: center; padding: 8px; }
 
