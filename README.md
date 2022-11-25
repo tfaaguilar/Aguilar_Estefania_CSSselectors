@@ -1,9 +1,6 @@
-# Aguilar_Estefania_CSSselectors
+TO DO LIST 
 
-Project Name
-To do list: CSS Cascade, Selection and Pseudo Selectors
-
-TODO: This is a list of  pending to do things,  in progress things and done things .
+TODO: This is a list of  pending to do things,  in progress things and done things, using CSS Cascade, Selection and Pseudo Selectors.
 
 Usage
 TODO: Check and uncheck as you complete the tasks.
